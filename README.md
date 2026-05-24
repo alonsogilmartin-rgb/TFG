@@ -25,5 +25,3 @@ Para facilitar la corrección y mantener la trazabilidad metodológica del ciclo
 ### 4. `analisis-de-negocio`
 * **Contenido:** Propuesta comercial y de negocio orientada al mercado financiero español derivada de las conclusiones empíricas de los modelos.
 * **Hito clave:** Desarrollo estratégico de una plataforma web analítica de *scoring* de riesgo automatizado (modelo SaaS de suscripción mixta). Incluye análisis de la jerarquía predictiva (donde se demuestra que los ratios contables como Deuda/Capital pesan aproximadamente 2,7 veces más que la volatilidad bursátil diaria para la monitorización continua) y la hoja de ruta con las limitaciones y líneas de desarrollo futuras del negocio.
-
-**Asistencia e Ingeniería de Código:** Herramientas de Modelos de Lenguaje e Inteligencia Artificial (LLMs) empleadas para la aceleración del desarrollo, depuración de errores (*debugging*) y optimización estructural de los notebooks.
